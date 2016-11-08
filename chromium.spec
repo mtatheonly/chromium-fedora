@@ -1,5 +1,5 @@
 # NEVER EVER EVER turn this on in official builds
-%global freeworld 0
+%global freeworld 1
 
 # gn is the new new new buildtool. *sigh*
 %global use_gn 1
